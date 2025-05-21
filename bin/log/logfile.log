@@ -1,0 +1,10 @@
+2025-05-15 12:29:41 INFO  - com.example.ServerUI.closeconnections:122 - Closing Connections
+2025-05-15 12:29:41 INFO  - com.example.ServerUI.closeconnections:136 - Server socket closed
+2025-05-15 12:29:41 ERROR - com.example.ServerUI.createandrunserver:194 - java.net.SocketException: socket closedClientSocket issue
+2025-05-15 12:29:41 INFO  - com.example.ServerUI.closeconnections:122 - Closing Connections
+2025-05-15 12:29:41 INFO  - com.example.ServerUI.startstopMouseClicked:539 - Stopped by User
+2025-05-15 16:36:49 INFO  - com.example.ServerUI.closeconnections:122 - Closing Connections
+2025-05-15 16:36:49 INFO  - com.example.ServerUI.closeconnections:136 - Server socket closed
+2025-05-15 16:36:49 ERROR - com.example.ServerUI.createandrunserver:194 - java.net.SocketException: socket closedClientSocket issue
+2025-05-15 16:36:49 INFO  - com.example.ServerUI.startstopMouseClicked:539 - Stopped by User
+2025-05-15 16:36:49 INFO  - com.example.ServerUI.closeconnections:122 - Closing Connections

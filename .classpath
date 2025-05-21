@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.4.11.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.4.11.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
